@@ -1,0 +1,73 @@
+/* popup.css */
+
+html
+{
+    width: 355px; /* max: 1000px */
+    height: 235px; /* max: 750px */
+}
+
+body {
+  width: 250px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 275px;
+}
+
+.popup-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.customTextArea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Vertically align the buttons in the middle */
+}
+
+.redirectButton {
+  background-color: #c1cbd5;
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 25px;
+  margin-right: 25px; 
+  font-size: 14px; /* Default font size for all buttons */
+}
+
+.larger-icon {
+  font-size: 16px; /* Increase font size for the second button */
+}
+
+.redirectButton:hover {
+  background-color: #c1cbd5;
+  
+}
