@@ -17,7 +17,6 @@ This project addresses the challenge of efficient navigation within the IGDTUW w
 ### Implementation
 <img width="884" alt="ss-github" src="https://github.com/ANUSHKKA-DHAMIJA/Prompt-Navigation-Adjunct/assets/108456134/d6438629-caae-4f09-ac82-8b3624b7b59e">
 
-### Implementation
 ![image](https://github.com/ANUSHKKA-DHAMIJA/Prompt-Navigation-Adjunct/assets/108456134/e933d625-b054-4604-9a19-a78e61acfde1)
 
 ### Successful Output
